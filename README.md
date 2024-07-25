@@ -1,1 +1,1 @@
-try to show math formula on web
+try to show math formula on vue2 web
